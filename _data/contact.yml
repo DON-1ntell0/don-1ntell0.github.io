@@ -9,15 +9,15 @@
 -
   type: discord
   icon: 'fab fa-discord'
-  url:  ''                  # Fill with your stackoverflow homepage
+  url:  'https://discordapp.com/users/784763571028099122'                  # Fill with your stackoverflow homepage
 -
   type: youtube
   icon: 'fab fa-youtube'
-  url:            
+  url: 'https://www.youtube.com/@dedsec5271'           
 -
   type: HTB
   icon: 'fa fa-cube'
-  url: 
+  url: 'https://app.hackthebox.com/profile/435501'
 
 #  type: rss
 #  icon: 'fas fa-rss'
