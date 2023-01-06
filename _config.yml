@@ -21,7 +21,7 @@ timezone: America/Chicago
 
 title: Write-Up Collection                          # the main title
 
-tagline:  Write-up and some notes  # it will display as the sub-title
+tagline:  Write-up and some notes on red team operations and pentesting # it will display as the sub-title
 
 description:                        # used by seo meta and the atom feed
   This blog has the purpose of sharing a collection of my write-ups during my cybersecurity journey
