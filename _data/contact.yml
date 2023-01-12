@@ -18,10 +18,10 @@
   type: HTB
   icon: 'fa fa-cube'
   url: 'https://app.hackthebox.com/profile/435501'
--
-  type: buy me a coffee
-  icon: 'fa fa-coffee'
-  url: 'https://www.buymeacoffee.com/1ntell0'
+#-
+#  type: buy me a coffee
+#  icon: 'fa fa-coffee'
+#  url: 'https://www.buymeacoffee.com/1ntell0'
 
 
 #  type: rss
