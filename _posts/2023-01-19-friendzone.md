@@ -553,7 +553,7 @@ Voila !  We got a shell as root and the box has been fully exploited.
 
 ```bash
 ➜  nc -nlvp 9001
-Listening on 0.0.0.0 9001
+Listening on 0.0.0.0 9001                                                                       
 Connection received on 10.10.10.123 59440
 bash: cannot set terminal process group (1151): Inappropriate ioctl for device
 bash: no job control in this shell
@@ -565,7 +565,3 @@ uid=0(root) gid=0(root) groups=0(root)
 ```
 
 Thanks for reading, enjoy and may be the force be with you all !
-
-And if you can escape that friendzone, train and run for your life !
-
-![escaping_the_fz.gif](/Assets/Pictures/Friendzone/escaping_the_fz.gif)
